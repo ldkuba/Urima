@@ -6,7 +6,6 @@ import com.sabrewulf.engine.application.Application;
 import com.sabrewulf.engine.entity.Entity;
 import com.sabrewulf.engine.entity.component.SpriteComponent;
 import com.sabrewulf.engine.entity.component.TransformComponent;
-import com.sabrewulf.engine.input.InputManager;
 import com.sabrewulf.engine.maths.Vec3;
 import com.sabrewulf.engine.maths.Vec4;
 import com.sabrewulf.engine.state.AbstractState;
