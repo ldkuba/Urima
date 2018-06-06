@@ -1,4 +1,4 @@
-package main;
+package com.main;
 
 import org.lwjgl.glfw.GLFW;
 import com.sabrewulf.engine.application.Application;
