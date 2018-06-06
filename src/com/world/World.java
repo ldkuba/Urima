@@ -1,13 +1,12 @@
-package world;
+package com.world;
 
 import java.util.ArrayList;
 
+import com.main.Main;
 import com.sabrewulf.engine.application.Application;
 import com.sabrewulf.engine.graphics.texture.TextureAtlas;
 import com.sabrewulf.engine.maths.Vec2;
 import com.sabrewulf.engine.scene.Scene;
-
-import main.Main;
 
 public class World {
 
