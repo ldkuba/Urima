@@ -1,7 +1,6 @@
 package main;
 
 import org.lwjgl.glfw.GLFW;
-
 import com.sabrewulf.engine.application.Application;
 import com.sabrewulf.engine.entity.Entity;
 import com.sabrewulf.engine.entity.component.SpriteComponent;
