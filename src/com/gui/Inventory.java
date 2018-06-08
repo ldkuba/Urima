@@ -1,17 +1,18 @@
 package com.gui;
 
-import com.sabrewulf.engine.gui.GUI;
+import java.util.ArrayList;
 
-public class Inventory {
+import com.sabrewulf.engine.gui.GUI;
+import com.sabrewulf.engine.gui.components.Label;
+
+public class Inventory
+{
 
 	private GUI gui;
 	private ArrayList<Label> labels;
-	public Inventory(GUI gui) {
+
+	public Inventory(GUI gui)
+	{
 		this.gui = gui;
 	}
-
-	
-	
-	
-	
 }

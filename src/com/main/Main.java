@@ -6,7 +6,7 @@ public class Main extends Application
 {
 	public Main()
 	{
-		super(800, 600, 1, "Test", false, false);
+		super(800, 600, 1, "Test", false, false, false);
 		
 		TestState state = new TestState(this);
 		stateManager.addState(state);
